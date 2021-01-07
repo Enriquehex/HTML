@@ -1,0 +1,90 @@
+body{
+background: url(imagenes/burbujas.jpg);
+background-repeat: no-repeat;
+background-size: 100% 150%;
+}
+#imagen{
+    height: 100px;
+
+position: absolute;
+top: 250px;
+left: 855px;
+
+margin-top: 50px;
+}
+
+img:hover{
+    opacity: 0.9;
+}
+img{
+border: 5px solid white;
+border-radius: 500px;
+    width: 100px;
+    height: 100px;
+   
+}
+
+.perfil{
+margin: 200px;
+padding: 1px;
+background: url(imagenes/fondito.jpg);
+background-repeat: no-repeat;
+background-size: 100% 35%;
+background-color: white;
+border-radius: 12px;
+border-top: 0px;
+border-color: #ccc;
+height: 400px;
+width: 380px;
+box-shadow:
+0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+0 12.5px 10px rgba(0, 0, 0, 0.06),
+0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+0 100px 80px rgba(0, 0, 0, 0.12)
+}
+
+
+#primera{
+    margin-top: 210px;
+}
+#name{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#edad{
+  font-size: 20px;
+  color:darkgrey;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer{
+    
+margin-bottom: 35px;
+padding-bottom: 20px;
+border-bottom: solid 1px;
+border-color: #ccc;
+color:darkgrey;
+
+}
+#tabla{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+#follow{
+    font-size: 10px;
+    color: darkgrey;
+}
+#likes{
+    font-size: 10px;
+    color: darkgrey;
+}
+#posts{
+    color: darkgrey;
+    font-size: 10px;
+}
+
