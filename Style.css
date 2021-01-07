@@ -1,5 +1,5 @@
 body{
-background: url(imagenes/burbujas.jpg);
+background: url(https://tillskottcraft.files.wordpress.com/2016/02/reggae-abstracto-de-burbujas-flow-fondos-pantalla-80288.jpg?w=660);
 background-repeat: no-repeat;
 background-size: 100% 150%;
 }
@@ -27,7 +27,7 @@ border-radius: 500px;
 .perfil{
 margin: 200px;
 padding: 1px;
-background: url(imagenes/fondito.jpg);
+background: url(https://ugelpicharikimbirivillavirgen.com/wp-content/uploads/2018/06/fondo-azul-celeste-abstracto.jpg);
 background-repeat: no-repeat;
 background-size: 100% 35%;
 background-color: white;
@@ -87,4 +87,5 @@ color:darkgrey;
     color: darkgrey;
     font-size: 10px;
 }
+
 
